@@ -5,21 +5,6 @@ Hi, I'm Natalia!
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer+Student;Always%20learning%20new%20things&center=true&width=380&height=45&color=6429cd"></a>
 </p>
-<hr>
-<picture> <img align="left" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
-
-
-```
-About me
--------------------------
-
-Hi! I'm a full stack web development student. Passionate about building 
-tech solutions from scratch, integrating both frontend and backend. 
-Exploring new technologies and perfecting skills every day. 
-Let's talk code! 🚀.
-
-```
-<hr>
 <h2 align="center">My Skills Includes</h2>
 <p style="display: inline-block;" align="center">
   <kbd>
