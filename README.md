@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Natalia!
+Hi there, I'm Natalia!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 <p align="center">
