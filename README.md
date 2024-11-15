@@ -1,27 +1,24 @@
-<h1 align="center">
-Hi there, I'm Natalia!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br/>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer+Student;Always%20learning%20new%20things&center=true&width=380&height=45&color=6429cd"></a>
-</p>
-<h2 align="center">My Skills Includes</h2>
-<p style="display: inline-block;" align="center">
-  <kbd>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B101F1&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Natalia+;Full+Stack+Web+Developer+Student;Always%20learning%20new%20things;)](https://git.io/typing-svg)
+
+<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador">
+<h3 align="left">Languages and Tools:</h3>
+<kbd>
     <kbd>Programming Languages</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> 
-  </kbd>
-  <kbd>
+</kbd>
+<kbd>
     <kbd>Back-end</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  </kbd>
-  <kbd>
+</kbd>
+<kbd>
     <kbd>Front-end</kbd>
     <br>
     <br>
@@ -32,52 +29,42 @@ Hi there, I'm Natalia!
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  </kbd>
-  <kbd>
+</kbd>
+<kbd>
     <kbd>Database</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-  </kbd>
-  <br>
-  <br>
-  <kbd>
+</kbd>
+<kbd>
     <kbd>Testing</kbd>
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" />
-  </kbd>
-</p>
-<h2 align="center">Github Stats</h2>
+</kbd>
+<h3>Github Stats</h3>
 <div>  
-  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=natalianieves&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="natanieves github stats" /> 
-  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalianieves&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
+<img width="39%" height="160px" src="https://github-readme-stats.vercel.app/api?username=natalianieves&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" alt="natanieves github stats" /> 
+<img width="31%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalianieves&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
 </div>
-<h2 align="center">Contact</h2>
- <div align="center">
-  <a href="" target="_blank">
+<h3>Contact</h3>
+<a href="" target="_blank">
     <img
-      height="35"
-      alt="telegram logo"
-      src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
+        height="35"
+        alt="gmail logo"
+        src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge"
     />
-  </a>
-  <a href="" target="_blank">
+    </a>
+<a href="" target="_blank">
     <img
-      height="35"
-      alt="gmail logo"
-      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge"
+        height="35"
+        alt="microsoft-outlook logo"
+        src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
     />
-  </a>
-  <a href="" target="_blank">
-    <img
-      height="35"
-      alt="microsoft-outlook logo"
-      src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge"
-    />
-  </a>
-</div>
+</a>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&color=6429CD&duration=4000&lines=Thanks+for+visiting!+✌️;+I'm+always+down+to+collab+:)">
-</h3>  
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&color=B101F1&duration=4000&lines=Thanks+for+visiting!+✌️;+I'm+always+down+to+collab+:)">
+</h3>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=footer"/>
