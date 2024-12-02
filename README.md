@@ -64,7 +64,7 @@
     />
 </a>
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&color=B101F1&duration=4000&lines=Thanks+for+visiting!+✌️;+I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&color=B101F1&duration=4000&lines=Thanks+for+visiting!+✌️😁;+I'm+always+down+to+collab+:)">
 </h3>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=footer"/>
